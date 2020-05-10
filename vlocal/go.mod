@@ -1,4 +1,4 @@
-module github.com/liusongpeng/quote/vlocal/v2
+module github.com/liusongpeng/quote/vlocal/v3
 
 go 1.14
 

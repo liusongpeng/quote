@@ -1,4 +1,4 @@
-module github.com/liusongpeng/quote/v2
+module github.com/liusongpeng/quote/v3
 
 go 1.14
 
