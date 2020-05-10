@@ -10,3 +10,4 @@ import "rsc.io/sampler"
 // Hello returns a greeting.
 func HelloV3() string {
 	return sampler.Hello()
+}
